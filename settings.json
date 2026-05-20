@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "playhipixelmc.aternos.me",
+    "port": 23582,
     "version": "1.21.1"
   },
   "position": {
@@ -20,7 +20,7 @@
     "auto-auth": {
       "enabled": true,
       "password": "Perzuu"
-    },
+   
     "anti-afk": {
       "enabled": true,
       "sneak": true
